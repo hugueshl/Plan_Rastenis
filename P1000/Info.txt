@@ -1,0 +1,10 @@
+--- Planches 500mm ---
+
+P500.zip regroupe tous les fichiers Svg
+
+--------------------------------------------------------------------------------
+
+Pour télécharger un fichier individuellement et garder la compatibilité Inkscape
+Cliquer sur un fichier.svg
+Cliquer sur Bouton <Raw> pour visualiser le fichier
+Click droit sur l'image et faire enregistrer sous
