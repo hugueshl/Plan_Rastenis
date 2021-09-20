@@ -1,6 +1,8 @@
 --- Planches 500mm ---
 
-P500.zip regroupe tous les fichiers Svg
+"P500.zip" regroupe tous les fichiers Svg
+Cliquer sur le Dossier "P500.zip"
+Utiliser le bouton <Download>
 
 --------------------------------------------------------------------------------
 
